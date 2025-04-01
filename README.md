@@ -1,4 +1,4 @@
-# AvoidkillingPHP
+# AvoidkillingPHP(已经不在免杀了，兄弟们，不能公开免杀)
 免杀PHP木马生成器
 ## 查杀效果
 ### VT查杀 0/58
